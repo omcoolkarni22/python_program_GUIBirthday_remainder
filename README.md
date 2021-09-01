@@ -1,5 +1,5 @@
 # python_program_GUIBirthday_remainder
-Birthday Remainder By thehardcoder
+Birthday Remainder <br>
 Helps you to remind your friends birthday.
 Make sure you have latest tkinter and python installed.
 pip install tkinter 
